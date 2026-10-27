@@ -1,0 +1,140 @@
+[
+  {
+    "active_name": "tovorafenib",
+    "SMILES": "C[C@H](C1=NC=C(S1)C(=O)NC2=NC=C(C(=C2)C(F)(F)F)Cl)NC(=O)C3=C(C(=NC=N3)N)Cl",
+    "InChIKey": "VWMJHAFYPMOMGF-ZCFIWIBFSA-N",
+    "fingerprint_hex": "00000371C07BB1804600000000000000000000000001600000002C580000000000000001F800001F06100000000C2AC1DE343FB196C81008AC033777740082F0A9770FB841D8ADB866D888687AE1DEF1D42588689702E8CDE61400000A00000000000000000000000000000000000000000000",
+    "accepted_targets": [
+      "BRAF",
+      "RAF1"
+    ],
+    "PubChem_CID": 25161177,
+    "FDA_first_US_approval": "2024-04-23",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/217700s000lbl.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "vorasidenib",
+    "SMILES": "C[C@H](C(F)(F)F)NC1=NC(=NC(=N1)C2=NC(=CC=C2)Cl)N[C@H](C)C(F)(F)F",
+    "InChIKey": "QCZAWDGAVJMPTA-RNFRBKRXSA-N",
+    "fingerprint_hex": "00000371C07381C00400000000000000000000000000000000002C580000000000000001E000001D0210000000082AC11734339096C81000A001266264008280292107A00998A03866988868E2C19B91942008689002C8C8071000000000000000000000000000000000000000000000000000",
+    "accepted_targets": [
+      "IDH1",
+      "IDH2"
+    ],
+    "PubChem_CID": 117817422,
+    "FDA_first_US_approval": "2024-08-06",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218784s000lbl.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "lazertinib",
+    "SMILES": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "InChIKey": "RRMJMHOQSALEJJ-UHFFFAOYSA-N",
+    "fingerprint_hex": "00000371F07BF0000000000000000000000000000001600000003C788100000000000001F400001E00180000000C0CE19E063FF697C81400AA0337777400928C2931A2A01DD8203F7CD88E6EE2C4F9DB97B4286EDC1BD8E8A7B0D0C30E00408002040010200081000408002040000000000000",
+    "accepted_targets": [
+      "EGFR"
+    ],
+    "PubChem_CID": 121269225,
+    "FDA_first_US_approval": "2024-08-19",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/219008s000lbledt.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "inavolisib",
+    "SMILES": "C[C@@H](C(=O)N)NC1=CC2=C(C=C1)C3=NC(=CN3CCO2)N4[C@@H](COC4=O)C(F)F",
+    "InChIKey": "SGEUNORSOZVTOL-CABZTGNLSA-N",
+    "fingerprint_hex": "00000371E07BB980000000000000000000000000000162C00000300000000580000000B1C000001F00100000000C2CE19B163FFE97CC1400A80237777C0082882D3132A009C8A1BE7C988E6EA2C4B9BB9F3828EED71BD8E82790D0230E08000002000800001000000400100000000000000000",
+    "accepted_targets": [
+      "PIK3CA"
+    ],
+    "PubChem_CID": 124173720,
+    "FDA_first_US_approval": "2024-10-10",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/219249s000lbl.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "ensartinib",
+    "SMILES": "C[C@@H]1CN(C[C@@H](N1)C)C(=O)C2=CC=C(C=C2)NC(=O)C3=NN=C(C(=C3)O[C@H](C)C4=C(C=CC(=C4Cl)F)Cl)N",
+    "InChIKey": "GLYMPHUVMRFTFV-QLFBSQMISA-N",
+    "fingerprint_hex": "00000371E07BB1000600000000000000000000000000000000003C788100000000000001D000001F02180000000C3EE19E2E33F693C00400AA0327727004920C022767001C98A1BF6ED80E66B2C5B79B97B928F6DE19C8E987BAC9A09E08000000008100001000000001020000000000000000",
+    "accepted_targets": [
+      "ALK",
+      "MET",
+      "ROS1"
+    ],
+    "PubChem_CID": 56960363,
+    "FDA_first_US_approval": "2024-12-18",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218171s000lbl.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "vimseltinib",
+    "SMILES": "CC1=C(C=CC(=N1)C2=CN=C(N(C2=O)C)NC(C)C)OC3=CC(=NC=C3)C4=CN(N=C4)C",
+    "InChIKey": "TVGAHWWPABTBCX-UHFFFAOYSA-N",
+    "fingerprint_hex": "00000371E07BB0000000000000000000000000000001600000002C588000000000000001F800001E00180000000C2CC19E043F8693C81400AA0335777404928C2131E22019D8A13F6CD88E26FAC4FDDB87BC28EEDB1BD8E8C7B8D8C28C00000000000000000000000000000000000000000000",
+    "accepted_targets": [
+      "CSF1R"
+    ],
+    "PubChem_CID": 86267612,
+    "FDA_first_US_approval": "2025-02-14",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219304s000lbl.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "taletrectinib",
+    "SMILES": "C[C@H](COC1=CC=C(C=C1)C2=CN=C3N2N=C(C=C3)N[C@H](C)C4=CC(=CC=C4)F)N",
+    "InChIKey": "HEVHTYMYEMEBPX-HZPDHXFCSA-N",
+    "fingerprint_hex": "00000371E07BA1000000000000000000000000000001600000003C608000000000005801F400001F00180000000C2CE19F0E3FB69EC81400A20336676400928C2F3132A01DD8A03E7C988E6EE2C4B99B97B828FCD813C8E82790D0830E20000000000000004000000000000000000000000000",
+    "accepted_targets": [
+      "ROS1",
+      "NTRK1",
+      "NTRK2",
+      "NTRK3"
+    ],
+    "PubChem_CID": 72202474,
+    "FDA_first_US_approval": "2025-06-11",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219713s000lbl.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "sunvozertinib",
+    "SMILES": "CC(C)(C1=CC(=C(C=C1NC2=NC(=NC=C2)NC3=C(C=C(C(=C3)NC(=O)C=C)N4CC[C@H](C4)N(C)C)OC)Cl)F)O",
+    "InChIKey": "BTMKEDDEMKKSEF-QGZVFWFLSA-N",
+    "fingerprint_hex": "00000371F07BB1000400000000000000000000000001600000003C608000000000000001D000001F02100800000C6EC19A2E3FF697C81600A802377774008288293127A009D8203F7ED88E6EE2C5FADB9574286ED41BD8F8A7B0D0E30E8440800206021020088100040C042040000000000000",
+    "accepted_targets": [
+      "EGFR"
+    ],
+    "PubChem_CID": 139377809,
+    "FDA_first_US_approval": "2025-07-02",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219839s000lbl.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "zongertinib",
+    "SMILES": "CC1=C(C=CC(=C1)NC2=NC=NC3=CN=C(N=C32)N4CCC(CC4)NC(=O)C=C)OC5=CC6=C(C=C5)N(C=N6)C",
+    "InChIKey": "YSGNGFPNTLERCR-UHFFFAOYSA-N",
+    "fingerprint_hex": "00000371E07BF0000000000000000000000000000001600000003C78B1020000000058B1FE00001E00100000000C2CC19E043FF6B7CC1400A8033777740082882D3132A009D8A03E7CD88C6EE2C4F9DB963C28EED61BC8E8A7B0D0230E00400042000800200080008400100040000000000000",
+    "accepted_targets": [
+      "ERBB2"
+    ],
+    "PubChem_CID": 160283094,
+    "FDA_first_US_approval": "2025-08-08",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219042s000lbl.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  },
+  {
+    "active_name": "sevabertinib",
+    "SMILES": "COC1=C(C=CC=C1Cl)NC2=C(NC3=C2C(=O)NCC3)C4=C(C=NC=C4)OC[C@@H]5COCCO5",
+    "InChIKey": "VYQVHWNNPKOJEA-AWEZNQCLSA-N",
+    "fingerprint_hex": "00000371E07BB8000400000000000000000000000001600000003C589100000000005801F000001E02100000000C1EE19E263EC692C99400A8033577540482882035776008D9A13F7FD80F66FBC5F7DB973DA8E7D611DAE947BCC9F08E00000000020018000000000004003000000000000000",
+    "accepted_targets": [
+      "ERBB2",
+      "EGFR"
+    ],
+    "PubChem_CID": 155234713,
+    "FDA_first_US_approval": "2025-11-19",
+    "FDA_label_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219972s000lblCorrected.pdf",
+    "context_note": "Frozen input for exploratory scoring; not independently validated."
+  }
+]
